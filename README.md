@@ -1,14 +1,22 @@
-# Testes E2E com Cypress - OrangeHRM
-
-----
+# Testes E2E com Cypress | OrangeHRM
 
 Projeto de **automação de testes End-to-End (E2E)** utilizando **Cypress** na aplicação de demonstração **OrangeHRM**.
 O objetivo deste projeto é validar os principais fluxos de autenticação da aplicação, aplicando boas práticas de **automação de testes, organização de testes e registro de defeitos**.
 
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+
+</p>
+
 ---
 
 # Objetivo:
-
 Validar o funcionamento do fluxo de autenticação da aplicação OrangeHRM através de testes automatizados, garantindo que:
 
 - usuários consigam realizar login com credenciais válidas
@@ -21,11 +29,11 @@ Validar o funcionamento do fluxo de autenticação da aplicação OrangeHRM atra
 
 Os seguintes cenários foram implementados:
 
-- Login com credenciais válidas ✔️
-- Login com senha incorreta ❌
-- Login com usuário inválido ❌
-- Validação de campos obrigatórios ⚠️
-- Logout do sistema 🔒
+- Login com credenciais válidas
+- Login com senha incorreta
+- Login com usuário inválido
+- Validação de campos obrigatórios
+- Logout do sistema
 
 ----
 
@@ -61,14 +69,14 @@ Durante a execução dos testes automatizados foi identificado o seguinte compor
 **Logout continua executando requisições para endpoints protegidos retornando 401**
 
 O registro completo do defeito pode ser consultado em:
-cypress-orangehrm/ bug-report.md
 
-----
+📄 [Bug Report](./cypress-orangehrm/bug-report.md)
+
 ----
 
 🌸 Desenvolvido por Giovanna Fernandes
 
 Estudante de **Sistemas de Informação**  
 
-Focada em **Quality Assurance (QA)**.
+Focada em **Quality Assurance (QA)**
 
