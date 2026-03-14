@@ -1,0 +1,14 @@
+[
+  {
+    "title": "login com senha incorreta",
+    "username": "Admin",
+    "password": "senhaErrada",
+    "message": "Invalid credentials"
+  },
+  {
+    "title": "login com usuário inexistente",
+    "username": "usuarioFake",
+    "password": "admin123",
+    "message": "Invalid credentials"
+  }
+]

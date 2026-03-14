@@ -1,0 +1,12 @@
+# dependências
+node_modules/
+
+# logs
+npm-debug.log*
+
+# Cypress artifacts
+cypress/videos/
+cypress/screenshots/
+
+# sistema
+.DS_Store
