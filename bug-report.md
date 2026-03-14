@@ -66,7 +66,7 @@ Média 🟠🟠🟠
 
 ----
 
-### Evidência
+### Evidência:
 
 Screenshot capturado durante a execução do teste automatizado:
 
