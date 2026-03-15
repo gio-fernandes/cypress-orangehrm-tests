@@ -1,18 +1,12 @@
 # Testes E2E com Cypress | OrangeHRM
 
-Projeto de **automação de testes End-to-End (E2E)** utilizando **Cypress** na aplicação de demonstração **OrangeHRM**.
-O objetivo deste projeto é validar os principais fluxos de autenticação da aplicação, aplicando boas práticas de **automação de testes, organização de testes e registro de defeitos**.
+Projeto de automação de testes End-to-End (E2E) utilizando Cypress na aplicação de demonstração OrangeHRM.
+O objetivo deste projeto é validar os principais fluxos de autenticação da aplicação, aplicando boas práticas de automação de testes, organização de testes e registro de defeitos.
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-
-</p>
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
